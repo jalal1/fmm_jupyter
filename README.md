@@ -1,4 +1,5 @@
-# Install Fast map matching* (FMM) using Jupyter Notebook
+# Install Fast map matching* (FMM) using Google Colab
+It seems that installing FMM locally either on Windows or Mac is not straight forward. An easy alternative is using Google Colab! 
 
 ## Use Google Colab to run "Install_fast_map_matching.ipynb".
 
