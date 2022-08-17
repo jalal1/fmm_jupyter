@@ -12,10 +12,13 @@ A complete example can be found here:
   <img src="imgs/raw_matched.PNG" width="500" height="500" />
 </p>
 
-<font size="1"> *Can Yang & Gyozo Gidofalvi (2018) Fast map matching, an algorithm
+<span style="font-size:0.8em">
+
+*Can Yang & Gyozo Gidofalvi (2018) Fast map matching, an algorithm
 integrating hidden Markov model with precomputation, International Journal of Geographical Information Science, 32:3, 547-570, DOI: 10.1080/13658816.2017.1400548
 
 https://fmm-wiki.github.io/
-</font>
+
+</span>
 
 
