@@ -4,7 +4,18 @@ It seems that installing FMM locally either on Windows or Mac is not straight fo
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jalal1/fmm_jupyter/blob/main/Install_fast_map_matching.ipynb)
 
 
-*Can Yang & Gyozo Gidofalvi (2018) Fast map matching, an algorithm
+A complete example can be found here: 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jalal1/fmm_jupyter/blob/main/Fast_Map_Matching_(FMM)_Example.ipynb)
+
+<p align="center">
+  <img src="imgs/raw_matched.PNG" width="500" height="500" />
+</p>
+
+<font size="1"> *Can Yang & Gyozo Gidofalvi (2018) Fast map matching, an algorithm
 integrating hidden Markov model with precomputation, International Journal of Geographical Information Science, 32:3, 547-570, DOI: 10.1080/13658816.2017.1400548
 
 https://fmm-wiki.github.io/
+</font>
+
+
